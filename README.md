@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrodriguezalas I'm an Electronics and Software Engineer
 - 👀 I’m interested in the environment, electronics, programming, astronomy and space exploration 🌌📡💻🚀
 - 🌱 I’m currently learning Flutter, Python and embebbed systems programming.
-- 💞️ I’m looking to collaborate on ...
+- 🧙‍♂️ I currently work as a Software Engineer at a startup company 📈
 - 📫 How to reach me ...
