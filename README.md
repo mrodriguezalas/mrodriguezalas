@@ -2,4 +2,4 @@
 - 👀 I’m interested in the environment, electronics, programming, astronomy and space exploration 🌌📡💻🚀
 - 🌱 I’m currently learning Flutter, Python and embebbed systems programming.
 - 🧙‍♂️ I currently work as a Software Engineer at a startup company 📈
-- 📫 How to reach me ...
+- 📫 The best way to reach me is to contact me through my webpage murixum.dev
